@@ -5,8 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PROG7312"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Main Menu"
+    Width="800"
+    Height="450"
+    Closing="Window_Closing"
+  >
+    <Grid Background="#f3f4f6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
+        <TextBlock FontSize="32" Grid.Row="0" Margin="64" HorizontalAlignment="Center" VerticalAlignment="Center">Ricaylins Learning App</TextBlock>
+       
+        <Button
+                    HorizontalAlignment="Center"
+                        
+                    Grid.Row="1"
+            FontWeight="Bold"
+                        x:Name="findingCallNumbersButton"
+                        VerticalAlignment="Center"
+                        Background="#bae6fd"
+                        Foreground="#0369a1"
+                        BorderThickness="0"
+                        Padding="16, 8"
+                        FontSize="22" Click="findingCallNumbersButton_Click">
+            Finding Call Numbers
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="4"/>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Grid>
 </Window>

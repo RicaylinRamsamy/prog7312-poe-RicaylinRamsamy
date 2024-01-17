@@ -4,6 +4,10 @@
              xmlns:local="clr-namespace:PROG7312"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="FontAwesome">pack://application:,,,/Fonts/#Font Awesome 6 Free Solid</FontFamily>
+        <FontFamily x:Key="Inter">pack://application:,,,/Fonts/#Inter</FontFamily>
+        <Style TargetType="{x:Type Window}">
+            <Setter Property="FontFamily" Value="{StaticResource Inter}" />
+        </Style>
     </Application.Resources>
 </Application>

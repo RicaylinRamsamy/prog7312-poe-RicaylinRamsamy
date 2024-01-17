@@ -24,5 +24,17 @@ namespace PROG7312
         {
             InitializeComponent();
         }
+
+        private void findingCallNumbersButton_Click(object sender, RoutedEventArgs e)
+        {
+            FindingCallNumbersWindow window = new FindingCallNumbersWindow();
+            window.Show();
+            this.Hide();
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }
