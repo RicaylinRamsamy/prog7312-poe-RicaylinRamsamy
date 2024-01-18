@@ -1,0 +1,884 @@
+﻿{
+  "Branches": [
+    {
+      "CallNumber": "000",
+      "Name": "Computer science, information & general works",
+      "Children": [
+        {
+          "CallNumber": "070",
+          "Name": "News media, journalism & publishing",
+          "Children": [
+            {
+              "CallNumber": "071",
+              "Name": "Newspapers in North America",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "072",
+              "Name": "Newspapers in British Isles; in England",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "073",
+              "Name": "Newspapers in central Europe; in Germany",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "074",
+              "Name": "Newspapers in France & Monaco",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "075",
+              "Name": "Newspapers in Italy & adjacent islands",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "080",
+          "Name": "General collections",
+          "Children": [
+            {
+              "CallNumber": "081",
+              "Name": "Collections in American English",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "082",
+              "Name": "Collections in English",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "083",
+              "Name": "Collections in other Germanic languages",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "084",
+              "Name": "Collections in French, Occitan & Catalan",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "085",
+              "Name": "In Italian, Romanian & related languages",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "100",
+      "Name": "Philosophy & psychology",
+      "Children": [
+        {
+          "CallNumber": "180",
+          "Name": "Ancient, medieval & eastern philosophy",
+          "Children": [
+            {
+              "CallNumber": "181",
+              "Name": "Eastern philosophy",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "182",
+              "Name": "Pre-Socratic Greek philosophies",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "183",
+              "Name": "Socratic & related philosophies",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "184",
+              "Name": "Platonic philosophy",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "185",
+              "Name": "Aristotelian philosophy",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "190",
+          "Name": "Modern western philosophy",
+          "Children": [
+            {
+              "CallNumber": "191",
+              "Name": "Philosophy of United States & Canada",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "192",
+              "Name": "Philosophy of British Isles",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "193",
+              "Name": "Philosophy of Germany & Austria",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "194",
+              "Name": "Philosophy of France",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "195",
+              "Name": "Philosophy of Italy",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "200",
+      "Name": "Religion",
+      "Children": [
+        {
+          "CallNumber": "210",
+          "Name": "Philosophy & theory of religion",
+          "Children": [
+            {
+              "CallNumber": "211",
+              "Name": "Concepts of God",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "212",
+              "Name": "Existence, knowability & attributes of God",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "213",
+              "Name": "Creation",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "214",
+              "Name": "Theodicy",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "215",
+              "Name": "Science & religion",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "260",
+          "Name": "Social & ecclesiastical theology",
+          "Children": [
+            {
+              "CallNumber": "261",
+              "Name": "Social theology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "262",
+              "Name": "Ecclesiology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "263",
+              "Name": "Days, times & places of observance",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "264",
+              "Name": "Public worship",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "265",
+              "Name": "Sacraments, other rites & acts",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "300",
+      "Name": "Social sciences",
+      "Children": [
+        {
+          "CallNumber": "350",
+          "Name": "Public administration & military science",
+          "Children": [
+            {
+              "CallNumber": "351",
+              "Name": "Public administration",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "352",
+              "Name": "General considerations of public administration",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "353",
+              "Name": "Specific fields of public administration",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "354",
+              "Name": "Administration of economy & environment",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "355",
+              "Name": "Military science",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "370",
+          "Name": "Education",
+          "Children": [
+            {
+              "CallNumber": "371",
+              "Name": "Schools & their activities; special education",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "372",
+              "Name": "Elementary education",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "373",
+              "Name": "Secondary education",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "374",
+              "Name": "Adult education",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "375",
+              "Name": "Curricula",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "400",
+      "Name": "Language",
+      "Children": [
+        {
+          "CallNumber": "410",
+          "Name": "Linguistics",
+          "Children": [
+            {
+              "CallNumber": "411",
+              "Name": "Writing systems",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "412",
+              "Name": "Etymology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "413",
+              "Name": "Dictionaries",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "414",
+              "Name": "Phonology & phonetics",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "415",
+              "Name": "Grammar",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "490",
+          "Name": "Other languages",
+          "Children": [
+            {
+              "CallNumber": "491",
+              "Name": "East Indo-European & Celtic languages",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "492",
+              "Name": "Afro-Asiatic languages; Semitic languages",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "493",
+              "Name": "Non-Semitic Afro-Asiatic languages",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "494",
+              "Name": "Altaic, Uralic, Hyperborean & Dravidian",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "495",
+              "Name": "Languages of East & Southeast Asia",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "500",
+      "Name": "Natural sciences & mathematics",
+      "Children": [
+        {
+          "CallNumber": "580",
+          "Name": "Plants (Botany)",
+          "Children": [
+            {
+              "CallNumber": "581",
+              "Name": "Specific topics in natural history",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "582",
+              "Name": "Plants noted for characteristics & flowers",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "583",
+              "Name": "Dicotyledons",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "584",
+              "Name": "Monocotyledons",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "585",
+              "Name": "Gymnosperms; conifers",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "590",
+          "Name": "Animals (Zoology)",
+          "Children": [
+            {
+              "CallNumber": "591",
+              "Name": "Specific topics in natural history",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "592",
+              "Name": "Invertebrates",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "593",
+              "Name": "Marine & seashore invertebrates",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "594",
+              "Name": "Mollusks & molluscoids",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "595",
+              "Name": "Arthropods",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "600",
+      "Name": "Technology",
+      "Children": [
+        {
+          "CallNumber": "610",
+          "Name": "Medicine & health",
+          "Children": [
+            {
+              "CallNumber": "611",
+              "Name": "Human anatomy, cytology & histology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "612",
+              "Name": "Human physiology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "613",
+              "Name": "Personal health & safety",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "614",
+              "Name": "Incidence & prevention of disease",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "615",
+              "Name": "Pharmacology & therapeutics",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "660",
+          "Name": "Chemical engineering",
+          "Children": [
+            {
+              "CallNumber": "661",
+              "Name": "Industrial chemicals",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "662",
+              "Name": "Explosives, fuels & related products",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "663",
+              "Name": "Beverage technology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "664",
+              "Name": "Food technology",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "665",
+              "Name": "Industrial oils, fats, waxes & gases",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "700",
+      "Name": "The arts; fine & decorative arts",
+      "Children": [
+        {
+          "CallNumber": "720",
+          "Name": "Architecture",
+          "Children": [
+            {
+              "CallNumber": "721",
+              "Name": "Architectural structure",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "722",
+              "Name": "Architecture to ca. 300",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "723",
+              "Name": "Architecture from ca. 300 to 1399",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "724",
+              "Name": "Architecture from 1400",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "725",
+              "Name": "Public structures",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "770",
+          "Name": "Photography, photographs & computer art",
+          "Children": [
+            {
+              "CallNumber": "771",
+              "Name": "Techniques, equipment & materials",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "772",
+              "Name": "Metallic salt processes",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "773",
+              "Name": "Pigment processes of printing",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "774",
+              "Name": "Holography",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "775",
+              "Name": "Digital photography",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "800",
+      "Name": "Literature & rhetoric",
+      "Children": [
+        {
+          "CallNumber": "820",
+          "Name": "English & Old English literatures",
+          "Children": [
+            {
+              "CallNumber": "821",
+              "Name": "English poetry",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "822",
+              "Name": "English drama",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "823",
+              "Name": "English fiction",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "824",
+              "Name": "English essays",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "825",
+              "Name": "English speeches",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "880",
+          "Name": "Hellenic literatures; classical Greek",
+          "Children": [
+            {
+              "CallNumber": "881",
+              "Name": "Classical Greek poetry",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "882",
+              "Name": "Classical Greek dramatic poetry & drama",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "883",
+              "Name": "Classical Greek epic poetry & fiction",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "884",
+              "Name": "Classical Greek lyric poetry",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "885",
+              "Name": "Classical Greek speeches",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CallNumber": "900",
+      "Name": "History & geography",
+      "Children": [
+        {
+          "CallNumber": "960",
+          "Name": "History of Africa",
+          "Children": [
+            {
+              "CallNumber": "961",
+              "Name": "Tunisia & Libya",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "962",
+              "Name": "Egypt & Sudan",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "963",
+              "Name": "Ethiopia & Eritrea",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "964",
+              "Name": "Northwest African coast & offshore islands",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "965",
+              "Name": "Algeria",
+              "Children": [
+
+              ]
+            }
+          ]
+        },
+        {
+          "CallNumber": "980",
+          "Name": "History of South America",
+          "Children": [
+            {
+              "CallNumber": "981",
+              "Name": "Brazil",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "982",
+              "Name": "Argentina",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "983",
+              "Name": "Chile",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "984",
+              "Name": "Bolivia",
+              "Children": [
+
+              ]
+            },
+            {
+              "CallNumber": "985",
+              "Name": "Peru",
+              "Children": [
+
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
